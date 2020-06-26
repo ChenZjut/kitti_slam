@@ -1,4 +1,5 @@
-#前言
+
+# 前言
 该项目是基于KITTI自动驾驶测试集，测试比较Lego-loam和hdl_graph_slam建图效果。
 
 # 1.这些代码怎么用
@@ -13,7 +14,7 @@
 # 3.建图的效果
 Lego-loam
 <p align='center'>
-    <img src="result/Lego-loam.png" alt="drawing" width="400"/>
+    <img src="result/LeGo-loam.png" alt="drawing" width="400"/>
 </p>
 
 hdl_graph_slam
